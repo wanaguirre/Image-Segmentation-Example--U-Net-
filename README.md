@@ -28,7 +28,7 @@ In this competition, you’re challenged to develop an algorithm that automatica
 ---
 ### Methodology
 
-  - **Daa Augmentation**
+  - **Data Augmentation**
     - The following code performs a simple augmentation of flipping an image. 
     - In addition,  image is normalized to [0,1].
 
